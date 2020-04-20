@@ -14,11 +14,14 @@ MyFirstTest
     
     
 MySecondTest
-    Log    Inside sencond test case    
+    Log    Inside 2nd test case    
     Set Tags    regression
     
 MyThirdTest
-    Log    Inside thirs test case    
+    Log    Inside 3rd test case
+    
+MyFourthTest
+    Log    Inside 4th test case     
  
 # FirstSeleniumTest
     # Open Browser    https://google.com    chrome
